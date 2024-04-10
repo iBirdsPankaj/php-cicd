@@ -16,4 +16,4 @@ jobs:
                     server: ftp.ibirdscollege.com
                     username: ibirdscollege@cicd.ibirdscollege.com
                     password: Ajmer@@2024
-                    server-dir: /cicd.ibirdscollege.com/
+                    
